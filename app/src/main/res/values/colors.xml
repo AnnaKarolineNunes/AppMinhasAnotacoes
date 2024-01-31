@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FBAF05</color>
+    <color name="colorPrimaryDark">#FAC348</color>
+    <color name="colorAccent">#F4AC23</color>
+    <color name="cor_fundo_caixa_texto">#FBFAE5</color>
+</resources>
