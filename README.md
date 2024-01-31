@@ -1,8 +1,8 @@
-# Minhas AnotacoesApp
+# App Minhas Anotacoes
 
 ## Descrição
 
-Uma breve descrição do seu aplicativo e o que ele faz.
+Neste projeto, foi desenvolvido um aplicativo de notas que permite aos usuários inserir e salvar suas anotações no celular. Durante o desenvolvimento, foi utilizado os recursos da classe SharedPreferences, os quais têm o propósito de armazenar os dados inseridos pelos usuários no dispositivo móvel.
 
 ## Recursos
 
