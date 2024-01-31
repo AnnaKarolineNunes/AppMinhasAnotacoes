@@ -11,4 +11,4 @@ Neste projeto, foi desenvolvido um aplicativo de notas que permite aos usuários
 
 ## Capturas de Tela
 
-Inclua capturas de tela ou gifs animados do seu aplicativo para dar uma visão visual.
+![Group 3](https://github.com/AnnaKarolineNunes/AppMinhasAnotacoes/assets/101477642/b02f7df8-63c7-40d8-99e3-b6cacbb1f4ed)
