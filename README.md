@@ -1,4 +1,4 @@
-# App Minhas Anotacoes
+# App Minhas Anotações
 
 ## Descrição
 
